@@ -35,10 +35,11 @@ Variables are containers that store values. You start by declaring a variable.
 
 <h3 align = "center">Summary</h3>
 
-
+<p align = "center">
 | property      	| var            	| let         	| const       	|
 |---------------	|----------------	|-------------	|-------------	|
 | Reassign      	| allowed        	| allowed     	| not allowed 	|
 | Redeclaration 	| allowed        	| not allowed 	| allowed     	|
 | Hoisting      	| allowed        	| not allowed 	| not allowed 	|
 | Scope         	| function scope 	| block scope 	| block scope 	|
+</p>
