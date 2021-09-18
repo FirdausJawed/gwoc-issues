@@ -6,8 +6,7 @@ Loops can execute a block of code a number of times. Loops are handy, if you wan
 <h2>Types of LOOPS :</h2>
 
  - for - loops through a block of code a number of times
- - for/in - loops through the properties of an object
-- for/of - loops through the values of an iterable object
+
 - while - loops through a block of code while a specified condition is true
 - do/while - also loops through a block of code while a specified condition is true
 
@@ -50,15 +49,27 @@ In other words the while loop, loops through a block of code as long as a specif
 
 #### Example :
 
-
     while (i < 10) {
-    text += "The number is " + i;
+    text += "The loop is on " + i + "step";
     i++;
     }    
 
-
-
-
 ***
 ## The 'do while' loop 
+The do while loop is a variant of the while loop.
 The JavaScript do while loop iterates the elements for the infinite number of times like while loop. But, code is executed at least once whether condition is true or false. 
+
+### Syntax :
+
+    do {
+    // code block to be executed
+    }
+    while (condition);
+
+#### Example :
+
+do {
+  text += "The loop is on  " + i + "step";
+  i++;
+}
+while (i < 10);
