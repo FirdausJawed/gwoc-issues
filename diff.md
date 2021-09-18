@@ -1,4 +1,4 @@
-# Difference between const, var and let
+<h1 align = "center"> Difference between const, var and let </h1>
 
 Variables are containers that store values. You start by declaring a variable.
 
@@ -32,3 +32,5 @@ Variables are containers that store values. You start by declaring a variable.
 - Variables defined with const cannot be Reassigned.
 
 - Variables defined with const have Block Scope.
+
+<h3>Summary</h3>
