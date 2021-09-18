@@ -34,7 +34,7 @@ Variables are containers that store values. You start by declaring a variable.
 - Variables defined with const have Block Scope.
 
 <h3>Summary</h3>
-***
+
 
 | property      	| var            	| let         	| const       	|
 |---------------	|----------------	|-------------	|-------------	|
