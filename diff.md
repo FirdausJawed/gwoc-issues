@@ -34,3 +34,34 @@ Variables are containers that store values. You start by declaring a variable.
 - Variables defined with const have Block Scope.
 
 <h3>Summary</h3>
+
+- Redeclearation :
+  > var : allowed
+  
+  >let : not allowed
+
+  >const : not allowed
+
+- Reassign :
+  > var : allowed
+    
+  >let : allowed
+
+  >const : not allowed
+
+- Hoisting (Hoisting means that you can define a variable before its declaration) :
+
+  > var : allowed
+    
+  >let : not allowed
+
+  >const : not allowed
+
+- Scope :
+
+  > var : function scope
+    
+  >let : block scope
+
+  >const : block scope
+
