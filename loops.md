@@ -68,8 +68,10 @@ The JavaScript do while loop iterates the elements for the infinite number of ti
 
 #### Example :
 
-do {
-  text += "The loop is on  " + i + "step";
-  i++;
-}
-while (i < 10);
+    do {
+    text += "The loop is on  " + i + "step";
+    i++;
+    }
+    while (i < 10);
+
+ ***   
