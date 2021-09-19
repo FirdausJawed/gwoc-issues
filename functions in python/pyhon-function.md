@@ -94,4 +94,4 @@ In cases where you don’t know the exact number of arguments that you want to p
     # Calculate the sum
     plus(1,4,5)
 
-The asterisk (*) is placed before the variable name that holds the values of all nonkeyword variable arguments. Note here that you might as well have passed *varint, *var_int_args or any other name to the plus() function.    
+The asterisk (*) is placed before the variable name that holds the values of all nonkeyword variable arguments. Note here that you might as well have passed *varint, *var_int_args or any other name to the plus() function.  
